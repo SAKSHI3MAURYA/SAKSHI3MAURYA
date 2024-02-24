@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SAKSHIMAURYA
+- 👋 Hi, I’m Sakshi Maurya, a web developer with a passion for crafting engaging and dynamic user experiences.
 - 👀 I’m interested in Full Stack Web Development
 -  🚀 Coding Skills
  -- **Multi-page Website Design**: Proficient in creating responsive and visually appealing multi-page websites using HTML and advanced CSS with Bootstrap.
@@ -10,7 +10,10 @@
  -- **WordPress**: Familiar with WordPress for content management and website development.
 
 
-- 🌱 I’m currently learning B.Tech in AI&DS
+🌱 Currently Learning
+ -- Exploring advanced features of React.js for building more interactive and dynamic user interfaces.
+ -- Deepening my understanding of Node.js and Express.js to create robust server-side applications.
+
 - 📫 How to reach me 
      https://www.linkedin.com/in/sakshi-maurya-a495a7216
 
